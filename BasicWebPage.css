@@ -1,0 +1,238 @@
+#header {
+    height: 230px;
+    background-image: url("IMG1.JPG");
+    background-size:     cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    font-family: 'Shift', sans-serif;
+}
+#header h2 {
+    color: white;
+    font-size: 4em;
+    position: relative;
+    top: 30px;
+    left: 550px;
+    display: inline;
+}
+#header p {
+    color: white;
+    font-size: 1.3em;
+    font-weight: bold;
+    position: relative;
+    top: 60px;
+    left: 300px;
+    display: inline
+}
+#menu {
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 340px;
+    display: inline-block;
+}
+#menu li{
+    color: white
+    font-weight: bold;
+    display: inline;
+    text-transform: uppercase;
+    margin-right: 14px;
+}
+#menu input {
+    font-size: 0.7em;
+    text-transform: lowercase;
+    text-align: right;
+    position: relative;
+    top: -4px;
+}
+
+
+.heading{
+  text-align: center;
+
+}
+
+.paragraphWhichCity{
+	position: relative;
+	bottom: 310px;
+  left: 420px;
+	width: 800px;
+  margin-bottom: -21%;
+}
+
+.MandarinWhichCity{
+  position: relative;
+	bottom: 40px;
+  left: 420px;
+	width: 800px;
+  font-weight: bold;
+  background-color:	#A9A9A9;
+
+}
+
+.subHeading{
+	position: relative;
+	bottom: 300px;
+  left: 420px;
+	width: 800px;
+}
+
+
+.ForeignLanguages{
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.translationMandarin1{
+  position: relative;
+  text-align: center;
+}
+
+.translationMandarin2{
+  position: relative;
+  text-align: center;
+}
+
+.translationMandarin3{
+  position: relative;
+  text-align: center;
+
+}
+
+.translationEnglish1{
+  position: relative;
+  text-align: center;
+}
+
+.translationEnglish2{
+  position: relative;
+  text-align: center;
+}
+
+.translationEnglish3{
+  position: relative;
+  text-align: center;
+}
+
+.MandarinSymbolHello{
+  position: relative;
+  text-align: center;
+}
+
+.MandarinSymbolThankYou{
+  position: relative;
+  text-align: center;
+}
+
+.MandarinSymbolBye{
+  position: relative;
+  text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.headingHistorical{
+  text-align: center;
+  width: 800px;
+}
+
+.ClockTowerImg{
+  position: relative;
+	bottom: 45px;
+}
+
+.headingClockTower{
+  position: relative;
+	bottom: 10px;
+  left: 420px;
+	width: 800px;
+}
+
+.paragraphClockTower{
+  position: relative;
+	bottom:340px;
+  left: 420px;
+	width: 800px;
+  margin-bottom: -21%
+}
+
+.ChineseParagraphClockTower{
+  position: relative;
+	bottom:50px;
+  left: 420px;
+	width: 800px;
+  background-color: #A9A9A9;
+  font-weight: bold;
+}
+
+.AfricanTradingPostImage{
+  display:inline-block;
+  position: relative;
+	bottom:25px;
+  left: 850px;
+}
+
+.AfricanTradingPost{
+  position: relative;
+	bottom: -15px;
+  left:10px;
+  width: 800px;
+
+}
+
+.paragraphAfricanTradingPost{
+  position: relative;
+	bottom:315px;
+  left: 10px;
+  width: 800px;
+  margin-bottom: -21%;
+}
+
+.mandarinParagraphAfricanTradingPost{
+  position: relative;
+	bottom:50px;
+  left: 10px;
+  width: 800px;
+  background-color: #A9A9A9;
+  font-weight: bold;
+}
+
+.SouthAfricaChina{
+  position: relative;
+	top:-50px;
+  width: 150px;
+  left: 300px;
+}
+
+.AlfredBasin{
+  position: relative;
+  left:420px;
+  width: 800px;
+  bottom: 70px;
+}
+
+.AlfredBasinImage{
+  position: relative;
+	bottom: 110px;
+  left: 10px;
+  background-color: #A9A9A9;
+  font-weight: bold;
+}
+
+.paragraphAlfredBasin{
+  position: relative;
+	bottom:370px;
+  left: 420px;
+	width: 800px;
+  margin-bottom: -25%;
+}
+
+.MandarinParagraphAlfredBasin{
+  position: relative;
+	bottom:5px;
+  left: 420px;
+	width: 800px;
+  background-color: #A9A9A9;
+  font-weight: bold;
+}

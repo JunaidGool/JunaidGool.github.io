@@ -1,10 +1,10 @@
 #header {
     height: 230px;
     background-image: url("IMG1.JPG");
-    background-size:     cover;
     background-repeat: no-repeat;
     background-position: center center;
     font-family: 'Shift', sans-serif;
+    background-size:     cover;
 }
 #header h2 {
     color: white;
@@ -46,8 +46,23 @@
 }
 
 
+.whichCityImg{
+  position: relative;
+  border: 5px;
+  padding: 5px;
+  top: 10px;
+  background-color:	#A9A9A9;
+
+
+}
+
 .heading{
+  position: relative;
+  top: 5px;
   text-align: center;
+  border: 0px;
+  padding: 0px;
+
 
 }
 
@@ -57,15 +72,19 @@
   left: 420px;
 	width: 800px;
   margin-bottom: -21%;
+  border: 5px;
+  padding: 5px;
 }
 
 .MandarinWhichCity{
   position: relative;
-	bottom: 40px;
+	bottom: 50px;
   left: 420px;
 	width: 800px;
   font-weight: bold;
   background-color:	#A9A9A9;
+  border: 5px;
+  padding: 5px;
 
 }
 
@@ -74,6 +93,8 @@
 	bottom: 300px;
   left: 420px;
 	width: 800px;
+  border: 5px;
+  padding: 5px;
 }
 
 
@@ -129,24 +150,35 @@
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 2px solid black;
+
+    padding: 5px;
 }
 
 .headingHistorical{
+  position: relative;
+  border: 10px;
+  padding: 5px;
   text-align: center;
   width: 800px;
+  bottom: -15px;
 }
 
 .ClockTowerImg{
   position: relative;
 	bottom: 45px;
+  border: 5px;
+  padding: 5px;
+  background-color: #A9A9A9;
 }
 
 .headingClockTower{
   position: relative;
-	bottom: 10px;
+	bottom: 0px;
   left: 420px;
 	width: 800px;
+  border: 5px;
+  padding: 5px;
 }
 
 .paragraphClockTower{
@@ -154,7 +186,9 @@ table, th, td {
 	bottom:340px;
   left: 420px;
 	width: 800px;
-  margin-bottom: -21%
+  margin-bottom: -21%;
+  border: 5px;
+  padding: 5px;
 }
 
 .ChineseParagraphClockTower{
@@ -164,6 +198,8 @@ table, th, td {
 	width: 800px;
   background-color: #A9A9A9;
   font-weight: bold;
+  border: 5px;
+  padding: 5px;
 }
 
 .AfricanTradingPostImage{
@@ -171,6 +207,9 @@ table, th, td {
   position: relative;
 	bottom:25px;
   left: 850px;
+  border: 5px;
+  padding: 5px;
+  background-color: #A9A9A9;
 }
 
 .AfricanTradingPost{
@@ -178,6 +217,8 @@ table, th, td {
 	bottom: -15px;
   left:10px;
   width: 800px;
+  border: 5px;
+  padding: 5px;
 
 }
 
@@ -187,6 +228,8 @@ table, th, td {
   left: 10px;
   width: 800px;
   margin-bottom: -21%;
+  border: 5px;
+  padding: 5px;
 }
 
 .mandarinParagraphAfricanTradingPost{
@@ -196,6 +239,8 @@ table, th, td {
   width: 800px;
   background-color: #A9A9A9;
   font-weight: bold;
+  border: 5px;
+  padding: 5px;
 }
 
 .SouthAfricaChina{
@@ -203,36 +248,46 @@ table, th, td {
 	top:-50px;
   width: 150px;
   left: 300px;
+  border: 5px;
+  padding: 5px;
 }
 
 .AlfredBasin{
   position: relative;
-  left:420px;
+  left:430px;
   width: 800px;
   bottom: 70px;
+  border: 5px;
+  padding: 5px;
 }
 
 .AlfredBasinImage{
   position: relative;
 	bottom: 110px;
   left: 10px;
+  border: 5px;
+  padding: 5px;
   background-color: #A9A9A9;
-  font-weight: bold;
 }
 
 .paragraphAlfredBasin{
   position: relative;
 	bottom:370px;
-  left: 420px;
+  left: 430px;
 	width: 800px;
   margin-bottom: -25%;
+  border: 5px;
+  padding: 5px;
+
 }
 
 .MandarinParagraphAlfredBasin{
   position: relative;
 	bottom:5px;
-  left: 420px;
+  left: 430px;
 	width: 800px;
   background-color: #A9A9A9;
   font-weight: bold;
+  border: 5px;
+  padding: 5px;
 }
